@@ -18,7 +18,7 @@ const database = {
         { id: 3, name: "MacroSoft", employees: 540, contactInfo: { name: "Bill Paxton", email: "bp@ms.com"}},
         { id: 4, name: "United Brands", employees: 20},
         { id: 5, name: "Bananas Corp", employees: 1001, contactInfo: { name: "Xavier Hernandez", email: "xavier@bananas.com"}},
-        { id: 6, name: "XPTO.com", employees: 101, contactInfo: { name: "Daniel Zuck", email: "zuckh@xpto.com"}}
+        { id: 7, name: "uzair.com", employees: 105, contactInfo: { name: "uzair", email: "yuzaitr.com"}}
     ]
 };
 
